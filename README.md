@@ -1,7 +1,7 @@
 # agharia-84-naba-public
 A digital archive of one ancestral branch within the 84 Agharia families of Agra — tracing 11 generations from Pritsingh Nayak, preserved by a passionate 80-year-old genealogist.
 
-This repo is public. Does not contain the RAW data. Send request over the mail id- contact.a.nayak@gmail.com for the access for the entire data.
+( This repo is public. Does not contain the RAW data. Send request over the mail id- contact.a.nayak@gmail.com for the access for the entire data. )
 
 
 
